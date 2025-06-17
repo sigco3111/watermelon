@@ -1,0 +1,6 @@
+{
+  "name": "수박게임",
+  "description": "React, Three.js, cannon-es로 제작된 3D 과일 합치기 퍼즐 게임입니다. 수박 게임에서 영감을 받았습니다.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
