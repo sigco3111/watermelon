@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- 수박 외부 (진한 녹색) -->
+  <circle cx="16" cy="16" r="15" fill="#0D6B2D"/>
+  
+  <!-- 수박 내부 (빨간색) -->
+  <circle cx="16" cy="16" r="11" fill="#FF4444"/>
+  
+  <!-- 수박씨 -->
+  <ellipse cx="12" cy="14" rx="0.8" ry="1.2" fill="#2D2D2D"/>
+  <ellipse cx="20" cy="12" rx="0.8" ry="1.2" fill="#2D2D2D"/>
+  <ellipse cx="18" cy="18" rx="0.8" ry="1.2" fill="#2D2D2D"/>
+  <ellipse cx="14" cy="20" rx="0.8" ry="1.2" fill="#2D2D2D"/>
+  
+  <!-- 하이라이트 효과 -->
+  <ellipse cx="12" cy="10" rx="3" ry="2" fill="#22C55E" opacity="0.6"/>
+</svg> 

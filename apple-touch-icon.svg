@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" fill="none">
+  <!-- 수박 외부 (진한 녹색) -->
+  <circle cx="96" cy="96" r="90" fill="#0D6B2D"/>
+  
+  <!-- 수박 줄무늬 -->
+  <path d="M30 96 Q96 50 162 96 Q96 142 30 96" fill="#0A5A25"/>
+  <path d="M40 96 Q96 60 152 96 Q96 132 40 96" fill="#0A5A25"/>
+  
+  <!-- 수박 내부 (빨간색) -->
+  <circle cx="96" cy="96" r="66" fill="#FF4444"/>
+  
+  <!-- 수박 흰 부분 -->
+  <circle cx="96" cy="96" r="70" fill="none" stroke="#FFFFFF" stroke-width="6"/>
+  
+  <!-- 수박씨 -->
+  <ellipse cx="72" cy="84" rx="4" ry="6" fill="#2D2D2D"/>
+  <ellipse cx="120" cy="72" rx="4" ry="6" fill="#2D2D2D"/>
+  <ellipse cx="108" cy="108" rx="4" ry="6" fill="#2D2D2D"/>
+  <ellipse cx="84" cy="120" rx="4" ry="6" fill="#2D2D2D"/>
+  <ellipse cx="96" cy="90" rx="3" ry="5" fill="#2D2D2D"/>
+  <ellipse cx="110" cy="85" rx="3" ry="5" fill="#2D2D2D"/>
+  <ellipse cx="80" cy="105" rx="3" ry="5" fill="#2D2D2D"/>
+  
+  <!-- 하이라이트 효과 -->
+  <ellipse cx="72" cy="60" rx="18" ry="12" fill="#22C55E" opacity="0.6"/>
+  <ellipse cx="60" cy="55" rx="12" ry="8" fill="#FFFFFF" opacity="0.3"/>
+</svg> 
